@@ -77,19 +77,19 @@ form input[ value="="] {
 
 @media (max-width: 1200px) {
     .calc {
-        transform: scale(1.2);
+        transform: scale(2.3);
     }
 }
 
 @media (max-width: 900px) {
     .calc {
-        transform: scale(1.5);
+        transform: scale(2);
     }
 }
 
 @media (max-width: 600px) {
     .calc {
-        transform: scale(1.8);
+        transform: scale(2.5);
         width: 100%;
         padding: 10px;
     }
