@@ -105,13 +105,13 @@ form input[value="X"] {
 
 @media (max-width: 1200px) {
     .calc {
-        transform: scale(2.3);
+        transform: scale(2.5);
     }
 }
 
 @media (max-width: 900px) {
     .calc {
-        transform: scale(2);
+        transform: scale(2.5);
     }
 }
 
